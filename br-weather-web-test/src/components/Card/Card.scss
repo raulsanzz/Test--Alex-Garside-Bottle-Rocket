@@ -1,0 +1,27 @@
+.card-content{
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 88px;
+    min-height: 140px;
+    padding-top: 22px;
+}
+.card-icon{
+    padding: 20px;
+    color: #404040;
+    font-weight: 600;
+}
+.card.label{
+    font-size: 16px;
+    color: #646464;
+    font-weight: 600;
+}
+.card-temperature{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    font-size: 14px;
+    color: #646464;
+    font-weight: 600;
+}
